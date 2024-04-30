@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name lakshan",
                 "stop": "pm2 stop lakshan"
                 },
-               "author": "SamPandey001 & Prabath & Sachintha",
+               "author": "Vajira & Lakshan",
               "dependencies": {
                        "@whiskeysockets/baileys": "git+https://github.com/sampandey001/baileys",
                        "@adiwajshing/keyed-db": "^0.2.4",
