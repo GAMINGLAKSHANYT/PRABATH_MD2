@@ -37,7 +37,7 @@
 
   
 
-●. ***[SCAN QR CODE SERVER-1](https://prabath-md-pair-web-v2-slk.koyeb.app/pair)***
+●. ***[SCAN QR CODE SERVER-1](https://lakshan-md-pair-web-v2-slk.koyeb.app/pair)***
 
 ●. ***[SCAN QR CODE SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)***
 
