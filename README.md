@@ -1,7 +1,7 @@
   <p align="center">  
-  <a href="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+  <a href="https://telegra.ph/file/1863701597d2935273a96.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/1863701597d2935273a96.jpg">
+    <h1 align="center"> VAJIRA-MD </h1>
   </a>
 </p>  
 <p align="center">
@@ -19,7 +19,7 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{prabathLK}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
 
   
- ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/prabathLK/PRABATH-MD/)***
+ ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/vajira/VAJIRA-MD/)***
 
 
 ---
